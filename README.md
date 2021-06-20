@@ -1,14 +1,25 @@
 # Refactoring-for-a-marketing-agency
-Improved code for a marketing agency so that their website could be more accessible to people with disabilities.
+Improved code for a marketing agency to make website more accessible to people with disabilities.
 ​
 ## Description 
 ​
-Your GitHub ​
+Refactoring is one of the tasks handed to junior developers, hence, this task helps to develop problem-solving and troubleshooting skills for beginner coders.
+The client (Horiseon marketing agency) asked for a codebase that follows accessibility standards, so that their site is optimized for search engines.
+I declattered the CSS code for the page,
+added 'alt' attributes(so that images on the page would be accessible to people with disabilities), 
+and included some semantic tags in the html file to improve search engine optimization. 
+The image below is a preview of the web page:
+
+![picture](./assets/Hoseon.png)
+
+
 ​
 
 ## Credits
 ​
-List your collaborators, if any, with links to their GitHub profiles.
+Chris Woolcott (https://github.com/cwoolcott)
+Nate Perfettiful (https://github.com/perfettiful)
+Philip Merriman (https://github.com/phillipmerriman)
 ​
 ​
 ​

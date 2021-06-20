@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #fff;
 }
 
 .header h1 {
@@ -38,7 +38,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -81,10 +81,10 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Made changes to redundant css rules. Grouped into classes */
 .benefits-margins {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .benefits-titles {
@@ -97,14 +97,14 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Made changes to redundant css rules and grouped into classes*/
 .content-structure {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .content-images {
